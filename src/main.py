@@ -96,7 +96,7 @@ async def main() -> None:
     urls_base64 = [
         "https://raw.githubusercontent.com/MrPooyaX/VpnsFucking/main/Shenzo.txt",
         "https://raw.githubusercontent.com/MrPooyaX/SansorchiFucker/main/data.txt",
-        "https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/mix",
+        #"https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/mix",
         "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt",
         "https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray",
         "https://raw.githubusercontent.com/resasanian/Mirza/main/sub",
@@ -107,18 +107,18 @@ async def main() -> None:
         "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/shadowsocks",
         "https://raw.githubusercontent.com/ts-sf/fly/main/v2",
         "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2",
+        "https://mrpooya.top/SuperApi/BE.php",
     ]
     urls_normal = [
         "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt",
-        "https://raw.githubusercontent.com/itsyebekhe/HiN-VPN/main/subscription/normal/mix",
-        "https://raw.githubusercontent.com/sarinaesmailzadeh/V2Hub/main/merged",
+        #"https://raw.githubusercontent.com/itsyebekhe/HiN-VPN/main/subscription/normal/mix",
+        #"https://raw.githubusercontent.com/sarinaesmailzadeh/V2Hub/main/merged",
         "https://raw.githubusercontent.com/Everyday-VPN/Everyday-VPN/main/subscription/main.txt",
-        "https://mrpooya.top/SuperApi/BE.php",
-        "https://servers.astms.com/api/sub?v=2.0.3&ref=bevpn.net",
+        #"https://servers.astms.com/api/sub?v=2.0.3&ref=bevpn.net",
         # warp
         "https://raw.githubusercontent.com/ircfspace/warpsub/main/export/warp",
-        "https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/warp/config",
-        "https://raw.githubusercontent.com/NiREvil/vless/main/hiddify/auto-gen-warp",
+        #"https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/warp/config",
+        "https://raw.githubusercontent.com/NiREvil/vless/refs/heads/main/sub/v2rayng-wg.txt",
         "https://raw.githubusercontent.com/hiddify/hiddify-next/main/test.configs/warp",
     ]
 
