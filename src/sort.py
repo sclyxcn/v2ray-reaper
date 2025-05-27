@@ -35,15 +35,15 @@ def main() -> None:
     with (base_path / "normal" / "mix").open("r") as f:
         for config in f.readlines():
             for protocol in protocols:
-                if protocol =="all":
-                    continue                
-                protocol_data["all"]+=f"{config}";
-                if config.startswith(protocol):
-                    protocol_data[protocol] += f"{config}"
-                    break
+                if protocol !="all":              
+                    protocol_data["all"]+=f"{config}"
+                    if config.startswith(protocol):
+                        protocol_data[protocol] += f"{config}"
+                        break
 
     for protocol, data in protocol_data.items():
         encoded_data = pybase64.b64encode(data.encode()).decode()
+        print split_path / protocols[protocol]
         with (split_path / protocols[protocol]).open("w") as file:
             file.write(encoded_data)
 
