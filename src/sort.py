@@ -36,8 +36,9 @@ def main() -> None:
     with (base_path / "normal" / "mix").open("r") as f:
         for config in f.readlines():
             for protocol in protocols:
-                if protocol != "all":              
-                    protocol_data["all"]+=f"{config}"
+                if protocol != "all":
+                    if f"{config}" not in protocol_data["all"]
+                        protocol_data["all"]+=f"{config}"
                     if config.startswith(protocol):
                         protocol_data[protocol] += f"{config}"
                         break
