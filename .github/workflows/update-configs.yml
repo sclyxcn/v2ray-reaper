@@ -37,4 +37,4 @@ jobs:
           git config --local user.name "GitHub Action"
           git add --all
           git diff-index --quiet HEAD || git commit -m "chore: update configs ($(date '+%Y-%m-%d %H:%M:%S'))"
-          git push -f origin master
+          git push
