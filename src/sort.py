@@ -32,6 +32,7 @@ def main() -> None:
     split_path.mkdir(exist_ok=True)
 
     protocol_data = {protocol: generate_header_text(protocol, protocols) for protocol in protocols}
+    
     with (base_path / "normal" / "mix").open("r") as f:
         for config in f.readlines():
             for protocol in protocols:
@@ -41,13 +42,15 @@ def main() -> None:
                         protocol_data[protocol] += f"{config}"
                         break
 
+    
     for protocol, data in protocol_data.items():
         encoded_data = pybase64.b64encode(data.encode()).decode()
         try:
             with (split_path / protocols[protocol]).open("w") as file:
                 file.write(encoded_data)
         except IsADirectoryError as e:
-            print(f"Error: {e}. The path '{split_path / protocols[protocol]}' is a directory, not a file.")       
+            print(f"Error: {e}. The path '{split_path / protocols[protocol]}' is a directory, not a file.")
+            continue
 
 
 
