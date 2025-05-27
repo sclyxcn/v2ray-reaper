@@ -32,7 +32,6 @@ def main() -> None:
     split_path.mkdir(exist_ok=True)
 
     protocol_data = {protocol: generate_header_text(protocol, protocols) for protocol in protocols}
-    protocol_data["all"]="";
     with (base_path / "normal" / "mix").open("r") as f:
         for config in f.readlines():
             for protocol in protocols:
