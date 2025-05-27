@@ -49,7 +49,7 @@ def main() -> None:
             with (split_path / protocols[protocol]).open("w") as file:
                 file.write(encoded_data)
         except IsADirectoryError as e:
-            print(f"Error: {e}. The path '{split_path / protocols[protocol]}' is a directory, not a file.")
+            print(f"{Fore.RED}Failed{Fore.RESET} Error: {e}. The path '{split_path / protocols[protocol]}' is a directory, not a file.")
             continue
 
 
