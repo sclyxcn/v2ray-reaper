@@ -44,8 +44,8 @@ def main() -> None:
 
     
     for protocol, data in protocol_data.items():
-        encoded_data = pybase64.b64encode(data.encode()).decode()
         try:
+            encoded_data = pybase64.b64encode(data.encode()).decode()
             with (split_path / protocols[protocol]).open("w") as file:
                 file.write(encoded_data)
         except IsADirectoryError as e:
