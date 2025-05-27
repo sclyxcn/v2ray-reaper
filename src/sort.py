@@ -24,6 +24,7 @@ def main() -> None:
         "tuic": "tuic",
         "hy2": "hysteria2",
         "warp": "warp",
+        "all":""
     }
 
     base_path = Path(__file__).parent.parent
@@ -31,9 +32,10 @@ def main() -> None:
     split_path.mkdir(exist_ok=True)
 
     protocol_data = {protocol: generate_header_text(protocol, protocols) for protocol in protocols}
-    protocol_data["all"]="";
     with (base_path / "normal" / "mix").open("r") as f:
         for config in f.readlines():
+            if protocol =="all":
+                continue
             for protocol in protocols:
                 protocol_data["all"]+=f"{config}";
                 if config.startswith(protocol):
