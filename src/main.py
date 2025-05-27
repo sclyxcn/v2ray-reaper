@@ -92,7 +92,7 @@ async def main() -> None:
     dir_base64.mkdir()
     dir_normal.mkdir()
 
-    protocols = ["vmess", "vless", "trojan", "ss", "ssr", "hy2", "tuic", "warp"]
+    protocols = ["vmess", "vless", "trojan", "ss", "ssr", "hy2", "tuic", "warp","all"]
     urls_base64 = [
         "https://raw.githubusercontent.com/MrPooyaX/VpnsFucking/main/Shenzo.txt",
         "https://raw.githubusercontent.com/MrPooyaX/SansorchiFucker/main/data.txt",
