@@ -62,8 +62,8 @@ def split_and_encode_configs(
         custom_fixed_text = f"""#profile-title: base64:{encoded_title}
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/thirtysixpw/v2ray-reaper
-#profile-web-page-url: https://github.com/thirtysixpw/v2ray-reaper
+#support-url: https://github.com/sclyxcn/v2ray-reaper
+#profile-web-page-url: https://github.com/sclyxcn/v2ray-reaper
 """
 
         start_index = (i - 1) * max_lines_per_file
