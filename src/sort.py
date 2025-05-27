@@ -24,7 +24,7 @@ def main() -> None:
         "tuic": "tuic",
         "hy2": "hysteria2",
         "warp": "warp",
-        "all":""
+        "all": "",
     }
 
     base_path = Path(__file__).parent.parent
@@ -34,9 +34,9 @@ def main() -> None:
     protocol_data = {protocol: generate_header_text(protocol, protocols) for protocol in protocols}
     with (base_path / "normal" / "mix").open("r") as f:
         for config in f.readlines():
-            if protocol =="all":
-                continue
             for protocol in protocols:
+                if protocol =="all":
+                    continue                
                 protocol_data["all"]+=f"{config}";
                 if config.startswith(protocol):
                     protocol_data[protocol] += f"{config}"
