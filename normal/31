@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/sclyxcn/v2ray-reaper
 #profile-web-page-url: https://github.com/sclyxcn/v2ray-reaper
+trojan://4c57a4f7-e137-4e0d-97c0-2f06bbcd2f2e@141.193.213.163:443?security=tls&type=ws&sni=catro51avxe7b8r2pw.jjjiedian6j4tblb.com&path=/images&host=catro51avxe7b8r2pw.jjjiedian6j4tblb.com#US21
 trojan://Aimer@219.76.13.177:443?sni=epcce.ambercc.filegear-sg.me#HK4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLbVMydGU5dTVsT0JHV01IQXhyUFo5@150.241.77.214:4443#%E6%9C%AA%E7%9F%A5122
 trojan://Aimer@188.164.159.185:8443?sni=epml.ambercc.filegear-sg.me#%F0%9F%87%A6%F0%9F%87%B2AM%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A2
@@ -602,4 +603,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%F0
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-0396
 vmess://ewogICAgImFkZCI6ICIxYTJkNTE0Yi0zN2NmLTQ5OWYtOGQwOC1kMDE3YTkyYWI1YmIuYXNvdWwtYXZhLnRvcCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIjFhMmQ1MTRiLTM3Y2YtNDk5Zi04ZDA4LWQwMTdhOTJhYjViYi5hc291bC1hdmEudG9wIiwKICAgICJpZCI6ICI1ZjcyNmZlMy1kODJlLTRkYTUtYTcxMS04YWYwY2JiMmI2ODIiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvYXp1bWFzZS5yZW4iLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4yMDAuMTMtNTQ0MSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogIjFhMmQ1MTRiLTM3Y2YtNDk5Zi04ZDA4LWQwMTdhOTJhYjViYi5hc291bC1hdmEudG9wIgp9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#%F0%9F%87%B3%F0%9F%87%B1NL-89.23.103.125-5369
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.38:989#%F0%9F%87%B7%F0%9F%87%B4RO-194.14.217.38-0426
