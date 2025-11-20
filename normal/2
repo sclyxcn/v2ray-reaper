@@ -3,18 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/sclyxcn/v2ray-reaper
 #profile-web-page-url: https://github.com/sclyxcn/v2ray-reaper
-trojan://422d402c-58f1-4473-abeb-fe6e69dc97ed@217.30.10.31:8443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/217.30.10.31=8443#PL_speednode_0022
-trojan://6ead60c4-4321-45d5-81a9-ba4835f7c692@45.159.251.8:81?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/45.159.251.8=81#PT_speednode_0023
-vless://00f02ab2-6f2d-449f-a089-d182a2fac59a@81.161.98.228:1443?allowInsecure=0&sni=cdn.filterai.ru&type=ws&host=cdn.filterai.ru&path=/websocketplsecurity=tls#RU_speednode_0024
-vless://14305246-dc93-4b3c-9f6c-d0b29fa7e4fa@ru-msk.shvurgceo.online:51224?allowInsecure=0&sni=download.max.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#RU_speednode_0025
-vless://2f1b82ea-7186-4655-88d3-b06478519fef@tw.kunlun01.com:14090?allowInsecure=0&sni=s0.awsstatic.com&flow=xtls-rprx-vision-udp443&fp=ios&security=tls#TW_speednode_0027
-vless://04793d5b-1b79-49fc-b5f9-2e8ce0e3ebc6@hinet2.gzcloud.shop:20519?allowInsecure=0&sni=buylite.music.apple.com&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#TW_speednode_0028
-vless://e1f6bc5b-cbc2-49bb-8f26-1bf8bb85d18a@www.speedtest.net:80?allowInsecure=0&sni=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#US_speednode_0029
-vless://e1f6bc5b-cbc2-49bb-8f26-1bf8bb85d18a@172.66.156.81:80?allowInsecure=0&sni=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#US_speednode_0030
-ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443?plugin=v2ray-plugin;mode=websocket;mux=8;path=/zksuapgx;host=newroot2v1.dsjsapp.com;tls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.168-0178
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.167-0179
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.169-0177
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.170-0180
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRGZ4aW9LMFZrS3hUZHBWUUo0cnY4SGdsQXUwdnp2Ng==@146.19.49.251:443#%F0%9F%87%BA%F0%9F%87%B8US-146.19.49.251-0184
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#%F0%9F%87%A8%F0%9F%87%A6CA-79.127.233.170-0181
