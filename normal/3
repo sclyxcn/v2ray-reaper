@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/sclyxcn/v2ray-reaper
 #profile-web-page-url: https://github.com/sclyxcn/v2ray-reaper
+trojan://ZDAAFTxBNu5j9pl3Re834a3xSXwOZYeIlE30Dp86qc7yYgKaDCaROCSSnz2FCy@121.78.213.3:443?security=tls&sni=csharp.protocolbuffer.com#%E6%9C%AA%E7%9F%A5%20TROJAN-495%20%7C%20free-nodes
+trojan://telegram-id-directvpn@34.219.52.119:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-496%20%7C%20free-nodes
 trojan://c19d1432-8b3e-4818-8837-3d160cf65908@138.2.45.243:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-497%20%7C%20free-nodes
 trojan://c53647f3153f784b3c695ffbe5fb43c0@36.156.102.84:1806?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-498%20%7C%20free-nodes
 trojan://bs6KJkPBW9MP74uHEa@45.80.190.64:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-499%20%7C%20free-nodes
@@ -601,5 +603,3 @@ trojan://telegram-id-privatevpns@3.249.15.72:22222?security=tls&sni=trj.rollingn
 trojan://BxceQaOe@219.79.165.186:443?security=tls&sni=t.me/ripaojiedian#%E6%9C%AA%E7%9F%A5%20TROJAN-1092%20%7C%20free-nodes
 trojan://11ae0edd-2f63-4495-8683-037abbda9986@146.70.158.111:443?security=tls&sni=amin.karkas1.ir#%E6%9C%AA%E7%9F%A5%20TROJAN-1093%20%7C%20free-nodes
 trojan://iyinglong@18.140.67.76:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1094%20%7C%20free-nodes
-trojan://BxceQaOe@58.152.30.175:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%E6%9C%AA%E7%9F%A5%20TROJAN-1095%20%7C%20free-nodes
-trojan://mainssh-niwrhf87@108.61.171.167:443?security=tls&sni=getgrpc.mainssh.xyz#%E6%9C%AA%E7%9F%A5%20TROJAN-1096%20%7C%20free-nodes

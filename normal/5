@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/sclyxcn/v2ray-reaper
 #profile-web-page-url: https://github.com/sclyxcn/v2ray-reaper
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@160.16.145.107:2053?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1695%20%7C%20free-nodes
+trojan://414dff55-922a-4dc8-b5d3-b6517942b25a@east.eeeeeef998.buzz:15003?security=tls&sni=data.steamdownload.top#%E6%9C%AA%E7%9F%A5%20TROJAN-1696%20%7C%20free-nodes
 trojan://cd41b9d7-df15-46ad-a778-257b0851525a@uk01.trojanyyds.xyz:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1697%20%7C%20free-nodes
 trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&sni=shoppingmall.electricbanana.click#%E6%9C%AA%E7%9F%A5%20TROJAN-1698%20%7C%20free-nodes
 trojan://telegram-id-privatevpns@3.120.187.229:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-1699%20%7C%20free-nodes
