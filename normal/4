@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/sclyxcn/v2ray-reaper
 #profile-web-page-url: https://github.com/sclyxcn/v2ray-reaper
+trojan://vip@fbi.gov:443?security=tls&sni=heihu880.pages.dev&type=ws&path=/?ed=2560&Host=heihu880.pages.dev#%E6%9C%AA%E7%9F%A5%20TROJAN-1117%20%7C%20free-nodes
 trojan://wkmY1R4EcP@45.63.110.20:443?security=tls&sni=z-v2-003281.kailib.com#%E6%9C%AA%E7%9F%A5%20TROJAN-1118%20%7C%20free-nodes
 trojan://253bc477d4e43c209f2d427272968280@153.121.70.134:5041?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-1119%20%7C%20free-nodes
 trojan://f39bd244-f5fe-415c-8b98-a1e5250bf178@129.146.255.158:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1120%20%7C%20free-nodes
@@ -602,4 +603,3 @@ trojan://ZRYSly2IRuFlgpZCaep3Ey3DDXqTDczO04aeC8F36OjaYSCABnA573wN8xxK9S@219.76.1
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.130.66:3093?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-1714%20%7C%20free-nodes
 trojan://d4e41ff772c7fd45@45.11.104.94:3389?security=tls&sni=sbank.ir#%E6%9C%AA%E7%9F%A5%20TROJAN-1715%20%7C%20free-nodes
 trojan://e299faed-cb72-4c62-bb2e-f0a218aed72a@hk-full.privateip.net:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1716%20%7C%20free-nodes
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp07a.roc-taiwan.org.ua:65017?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1717%20%7C%20free-nodes
