@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/sclyxcn/v2ray-reaper
 #profile-web-page-url: https://github.com/sclyxcn/v2ray-reaper
-vless://17451fec-af94-4715-8c2f-7f6839130d0a@23.26.193.73:2040?security=reality&type=tcp&sni=tradingview.com&fp=qq&sid=53197c66aef53c44&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&encryption=none#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%2099ms
-vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?security=none&type=ws&path=%2Fvless%2F&host=ov-germany1.09vpn.com#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%2093ms
 vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@70.34.194.57:443?fp=firefox&sid=5e841fab&sni=yastatic.net&security=reality&type=tcp&pbk=F7NZa0wqjlz9zHlFUUW8rnh9j9GwX7e2rq3CynO3s1o#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%2099ms
 vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@se1.vitok.cc:443?fp=chrome&pbk=F7NZa0wqjlz9zHlFUUW8rnh9j9GwX7e2rq3CynO3s1o&security=reality&sid=5e841fab&sni=yastatic.net&type=tcp#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20122ms
 vless://1e280316-0408-47c4-b058-05b8f1f17f02@ov-italy1.09vpn.com:80?type=ws&path=%2Fvless%2F&sni=ov-italy1.09vpn.com#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%20209ms
@@ -603,3 +601,5 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#%F0%9F%87%BA%F0%9F%87%B8U
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#%F0%9F%87%BA%F0%9F%87%B8US-173.244.56.9-0097
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-0123
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388#%F0%9F%87%A9%F0%9F%87%AADE-209.46.102.22-0125
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRVG1MVmlVNFZFbXV3Yk94VXc0SVhk@107.172.250.161:59556#%F0%9F%87%BA%F0%9F%87%B8US-107.172.250.161-0122
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.157:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.157-0105
