@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/sclyxcn/v2ray-reaper
 #profile-web-page-url: https://github.com/sclyxcn/v2ray-reaper
-vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@forallpanel.srtongston.ir:8880?encryption=none&security=none&type=httpupgrade&headerType=none&path=%2F%3Fed%3D2082&host=Nn.postshup.ir#🆔ar14n24b%20🔓%20VL-HTTPUPGRADE-N/A%20❔%20XX%208ms
-vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@html.iranpood.com:2086?encryption=none&security=none&type=xhttp&headerType=none&path=%2F%3Fed%3D2082&host=hh.cafearen.ir&mode=auto#🆔ar14n24b%20🔓%20VL-XHTTP-N/A%20❔%20XX%2037ms
-vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@ns2.zabidat.ir:2086?encryption=none&security=none&type=xhttp&headerType=none&path=%2F%3Fed%3D2082&host=aa.cafearen.ir&mode=auto#🆔ar14n24b%20🔓%20VL-XHTTP-N/A%20❔%20XX%2096ms
-vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&headerType=none&path=%2F%3Fed%3D2082&host=Ccdn7-pro.postshup.ir#🆔ar14n24b%20🔓%20VL-HTTPUPGRADE-N/A%20❔%20XX%208ms
 vless://50ab6b59-4596-4b28-9440-fde9f5540514@18.153.49.40:2053?security=reality&encryption=none&pbk=oripM2rshqUJR0DlPvag-gmBHlSkZPt2KQ162fYbgFA&sni=www.intel.com&fp=chrome&sid=76101ace&type=tcp&spx=%2Fv2raybazi#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20down
 vless://8899d15d-a022-4b61-b848-87d4de0a034a@69.84.182.20:443?security=tls&sni=rAyAn-cOnFiG-uk-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=%2Fws&host=rAyAn-cOnFiG-uk-1.pAriSa.dPdNs.oRg&encryption=none#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%202ms
 vless://9ceb4327-952c-4d87-981c-d933bd81ced9@81.12.21.147:443?security=none&encryption=none&headerType=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20down
@@ -603,3 +599,7 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTggNS4wTUIvcyIsImFkZCI6IjEzNC4xOTUuMTk2LjIx
 trojan://b8494776252056a1b62e77c4ff6a6d61@16.163.50.86:49277?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
 trojan://b8494776252056a1b62e77c4ff6a6d61@18.162.58.236:2008?sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF2
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTkiLCJhZGQiOiIxMDQuMTYuOTAuMTIwIiwicG9ydCI6Ijg0NDMiLCJpZCI6IjAxYzA1MzBmLTE2OGQtNDY0NS1hNzRjLWYyYjNiMDE1YzIxNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6Im5vZGUtZGUtMS5lNGUzZTIudG9wIiwicGF0aCI6Ii93cyIsInRscyI6InRscyIsInNuaSI6Im5vZGUtZGUtMS5lNGUzZTIudG9wIiwidGVzdF9uYW1lIjoiMTkifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiVVMiLCJhZGQiOiJ2aXAzLnNhbmFpZWhkYXN0aS5jb20iLCJwb3J0IjoiMTU0NiIsImlkIjoiNmM1ZmNhZTMtMTZlOC00YTkzLWIyOGUtMDU1ODhkNWQ5MzQyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiJwbGF5Lmdvb2dsZS5jb20iLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVTIn0=
+trojan://humanity@104.20.6.134:443?security=tls&type=ws&sni=www.calmloud.com&path=/assignment&host=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD5
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjAiLCJhZGQiOiJsaW5reHQuZ296YXI4LmlyIiwicG9ydCI6IjQ0MyIsImlkIjoiNmFkMjc0MTEtZWU0NS00NmVkLWEzM2EtNWY2N2UzZDEzZDZhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Imxpbmt4dC5nb3phcjguaXIiLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6Imxpbmt4dC5nb3phcjguaXIiLCJ0ZXN0X25hbWUiOiIyMCJ9
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjEiLCJhZGQiOiI1Ny4xMjkuMTIxLjIzMCIsInBvcnQiOiIyMDUzIiwiaWQiOiIzZDM1OGVhNS00NjViLTQ2YWMtYTJkZi05OGNhMTU1NTE5NGYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIyMSJ9
