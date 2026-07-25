@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/sclyxcn/v2ray-reaper
 #profile-web-page-url: https://github.com/sclyxcn/v2ray-reaper
+trojan://FC60532879@rested-pheasant.rooster465.autos:443?security=tls&sni=rested-pheasant.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-31.223.184.153-0578
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.46-0125
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.204-0195
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.240-0198
 trojan://FC60532879@resolved-gelding.rooster465.autos:443?security=tls&sni=resolved-gelding.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-81.28.13.126-0425
